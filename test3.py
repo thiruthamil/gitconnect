@@ -1,1 +1,1 @@
-print(leodas)
+print("leodas")
